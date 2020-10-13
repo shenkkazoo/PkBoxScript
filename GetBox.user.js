@@ -2,7 +2,7 @@
 // @name         GetBox
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Generate flavortables for the pokemon in a field. Wait this doesn't f
+// @description  Generate list of pokemon in current field
 // @author       You
 // @match        https://pokefarm.com/fields
 // @grant        GM_getResourceText
